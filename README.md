@@ -4,8 +4,6 @@
 🔍 UX-focused, data-informed  
 📍 United States | [LinkedIn](https://linkedin.com/in/revatigarg)
 
----
-
 ## 🔭 I’m currently working on
 Designing guided configuration and subscription flows for complex B2B commerce environments, exploring how enterprise purchasing can become more intuitive and self-serve.
 
