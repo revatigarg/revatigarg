@@ -1,8 +1,8 @@
 ## Hi, I'm Revati 👋
 
-📍 United States | 🛒 B2B Commerce Product Manager @ Toyota | 🔍 Curious learner who thrives in ambiguity  
-
-I design enterprise commerce experiences that reduce friction, improve adoption, and drive measurable outcomes.
+🛒 B2B Commerce Product Manager  
+🔍 UX-focused, data-informed  
+📍 United States | [LinkedIn](https://linkedin.com/in/revatigarg)
 
 ---
 
@@ -34,7 +34,7 @@ Designing guided configuration and subscription flows for complex B2B commerce e
 ---
 
 ## 📫 How to reach me
-[LinkedIn](https://linkedin.com/in/revatigarg)
+
 
 ---
 
